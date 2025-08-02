@@ -28,6 +28,8 @@
 - [笔记本故障排除指南](/000%20-%20计算机协会特色/笔记本故障排除指南.md)
 - [扩展阅读（收集自互联网）](/000%20-%20计算机协会特色/扩展阅读/)
 
+### 0000 - 实用工具
+- [重置版校历（周视图）](/0000%20-%20实用工具/重制版校历.md)
 ### 1 - 入学前
 - [高考出分前](/1%20-%20入学前/高考出分前.md)
 
@@ -42,9 +44,10 @@
   欢迎你参与这个项目的编辑
 
 ## 声明
+本作品采用[ CC0 1.0 通用 ](https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hans) 进行许可
+
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-本作品采用[ CC0 1.0 通用 ](https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hans) 进行许可
 
 ## 欢迎加入《上海师范大学计算机协会》
 - 本社团位于老大学生活动中心123（男人村门口）
