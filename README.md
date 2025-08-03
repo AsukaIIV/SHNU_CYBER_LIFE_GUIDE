@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AsukaIIV/SHNU_CYBER_LIFE_GUIDE/refs/heads/master/assets/readme.webp"/>
   <br>上师大赛博生活指南
-  <br>提供一些问题参考，希望帮助到你的生活
+  <br>《计算机协会》牵头编辑，真实且实用的wiki
 </p>
 
 ## 简介 
@@ -34,6 +34,7 @@
 - [高考出分前](/1%20-%20入学前/高考出分前.md)
 
 ### 2 - 初来乍到
+- [校园网覆盖及速率](/2%20-%20初来乍到/校园网覆盖及速率.md)
 - [反诈骗提示](/2%20-%20初来乍到/反诈骗提示.md)
 - [运营商选择](/2%20-%20初来乍到/运营商选择.md)
 
@@ -48,6 +49,8 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+## 分享我们
+ - [分享页面](/分享页面.md)
 
 ## 欢迎加入《上海师范大学计算机协会》
 - 本社团位于老大学生活动中心123（男人村门口）
