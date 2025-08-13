@@ -1,3 +1,5 @@
+::直接拖入图片，自定义名称，就能拷贝到/assets目录，并把Markdown格式文本复制到剪贴板
+
 @echo off
 setlocal enabledelayedexpansion
 
