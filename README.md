@@ -48,9 +48,7 @@
   欢迎你参与这个项目的编辑
 
 ## 声明
-本作品采用[ CC0 1.0 通用 ](https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hans) 进行许可
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## 分享我们
  - [分享页面](/分享页面.md)
