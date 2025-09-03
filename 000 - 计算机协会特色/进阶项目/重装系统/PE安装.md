@@ -43,26 +43,5 @@
 - [WePE使用说明书 - 原生安装Windows8.1&10](https://www.wepe.com.cn/ubook/installwin810.html)
 - 同样适用于Windows 11
 
-## 7.Windows 11 特有的跳过联网激活
-- [Win11新机必看！跳联网激活 - 哔哩哔哩](https://www.bilibili.com/video/BV1MegCzLEBQ)
-
-## 8.安装驱动
-- 按照此方法安装的Windows系统在激活后，联网后会自动安装驱动
-- **显卡驱动**推荐单独处理
-
-| 品牌 | 驱动下载 | 备注 |
-| --- | --- | --- | 
-| 英伟达/Nvidia/Geforce | [官网驱动下载](https://www.nvidia.cn/drivers/lookup/) | Notebook/Laptop 的修饰适用于笔记本 |
-| AMD/Radeon | [官网驱动下载](https://www.amd.com/zh-cn/support/download/drivers.html) | 自行选择具体产品系列 | 
-| 英特尔/Iris  | [官网驱动下载](https://www.intel.cn/content/www/cn/zh/download-center/home.html) | 一般不用处理 | 
-
-- 笔记本需要额外安装**性能控制台**，**键盘快捷键驱动**，**触摸板驱动**，**读卡器驱动** 等
-
-查询自己笔记本型号/SN码，按照提示输入即可
-
-| 品牌 | 驱动下载 | 类型 | 备注 | 
-| --- | --- | --- | --- |
-| 联想 | | 全部 | | 
-| 拯救者 | Legion Tools | 性能控制台 | 好用的替代品 |
-| 华硕 |  | 全部 | |
-| ROG+天选 | G-helper | 性能控制台 | 替代垃圾奥创 |
+## 7.驱动安装
+[驱动安装](/000%20-%20计算机协会特色/进阶项目/重装系统/驱动安装.md)
