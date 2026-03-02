@@ -28,10 +28,22 @@
 
 ## 怎么使用
 
-直接去往：
+2026年3月2日已更新新版VPN软件（aTrust）
 
- [上海师范大学信息化办公室 - 官方网站](https://xxb.shnu.edu.cn/162/list.htm) 
+新版VPN：[点击下载](https://atvpn.shnu.edu.cn/portal/#/down_client_new)
 
-根据引导安装即可
+使用指南：[上师大信息办](https://xxb.shnu.edu.cn/32511/list.htm)
+
+### 版本选择补充：
+
+如果你的华为手机/平板/电脑 系统版本（设置 -> 关于手机 -> HarmonyOS版本）
+
+![鸿蒙系统版本.jpg](/assets/鸿蒙系统版本.jpg)
+
+**系统版本 <= 4.3.0** 则选择 **安卓版本**
+
+![鸿蒙next系统版本.jpg](/assets/鸿蒙next系统版本.jpg)
+
+**系统版本 >= 5.0.0** 则选择 **鸿蒙NEXT版本**
 
 请不要与其他VPN软件混合使用！！
